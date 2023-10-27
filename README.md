@@ -6,8 +6,7 @@
 I will consistently upload what I've studied so far and what I'll study in the future here <br>
 <br><br>
 
-  ### 📨 CONTACT me
-![ruixian24](https://img.shields.io/badge/ruixian24@naver.com-00B3E0?style=flat-square) <br><br>
+  ### 📨 CONTACT me 📨 ![ruixian24](https://img.shields.io/badge/ruixian24@naver.com-00B3E0?style=flat-square) <br><br>
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -21,9 +20,10 @@ I will consistently upload what I've studied so far and what I'll study in the f
           <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"><br>
           <img src="https://img.shields.io/badge/Notion-333333?style=flat-square&logo=notion&logoColor=white">
-          <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"><br><br><br>
+          <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"><br><br>
           <br/></div>
 
-    
 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ruixian24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://127.0.0.1:3000/index.html)<br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruixian24&show_icons=true&theme=rose)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruixian24&layout=compact)

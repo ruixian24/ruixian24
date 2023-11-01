@@ -6,7 +6,7 @@
 I will consistently upload what I've studied so far and what I'll study in the future here <br>
 <br><br>
 
-  ### 📨 CONTACT me 📨 ![ruixian24](https://img.shields.io/badge/ruixian24@naver.com-00B3E0?style=flat-square) <br><br>
+  ### 📨CONTACT me ![ruixian24](https://img.shields.io/badge/ruixian24@naver.com-00B3E0?style=flat-square) <br><br>
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 

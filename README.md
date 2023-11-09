@@ -6,6 +6,8 @@
 I will consistently upload what I've studied so far and what I'll study in the future here <br>
 <br><br>
 
+### The link to the web game I made is ---> https://ruixian24.github.io/web_game/
+<br><br>
   ### 📨CONTACT me ![ruixian24](https://img.shields.io/badge/ruixian24@naver.com-00B3E0?style=flat-square) <br><br>
 
 <div style="text-align: left;">
